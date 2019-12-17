@@ -1,0 +1,28 @@
+JavaScript Object Types....
+1. Object
+2. String
+3. Array
+4. Number
+5. Boolean
+
+Formate of valid JavaScript Object is JSON...
+1. Simple JSON
+2. Array Types JSON
+
+Advance Object Are...
+1. Set (value of a key will be always unique)
+ new Set([args])
+2. Map () (key of object must be unique)
+3. WeakSet
+4. WeakMap..
+
+
+
+NPM: 
+allows u to build app --> folder sturcture 
+dependance management --> libraries dependance such as react, JQ, BT fontawesome etc 
+Deploy sugnature of libarries will reduce the size of lib when deploy or transfering app to somewhere else 
+
+Github: version comtrol : we can access any version of document in anytime and the orginal one even
+it maintains the structure of code.. if there are maany devs and they are pushing code and other group member can access the code 
+allows to create your own tasks 
